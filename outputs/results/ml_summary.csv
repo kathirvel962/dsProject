@@ -1,0 +1,10 @@
+Metric,Value
+Problem,Salary Prediction
+Target,salary
+Model,RandomForestRegressor
+Features,"formatted_experience_level, formatted_work_type, remote_status, clean_location, job_category"
+Training Samples,3124
+Testing Samples,782
+MAE,35525.24
+RMSE,49624.87
+R2,0.2699

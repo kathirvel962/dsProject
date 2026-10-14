@@ -1,0 +1,55 @@
+Skill,Job_Count,Demand_Percentage
+Excel,2596,16.34
+SQL,764,4.81
+Python,616,3.88
+AWS,483,3.04
+Java,403,2.54
+Azure,390,2.45
+JavaScript,298,1.88
+Linux,292,1.84
+HTML,264,1.66
+Google Cloud,235,1.48
+Machine Learning,227,1.43
+React,223,1.4
+Tableau,217,1.37
+CSS,198,1.25
+Artificial Intelligence,191,1.2
+C#,182,1.15
+C++,174,1.1
+Git,157,0.99
+Power BI,140,0.88
+REST API,139,0.87
+Docker,137,0.86
+Kubernetes,135,0.85
+Apache Spark,115,0.72
+Angular,111,0.7
+Microservices,107,0.67
+Jenkins,98,0.62
+PostgreSQL,94,0.59
+Node.js,87,0.55
+MySQL,71,0.45
+GitHub,70,0.44
+TypeScript,69,0.43
+Natural Language Processing,68,0.43
+Kafka,63,0.4
+Terraform,62,0.39
+PHP,62,0.39
+Hadoop,52,0.33
+Spring Boot,49,0.31
+MongoDB,46,0.29
+Ruby,41,0.26
+Deep Learning,38,0.24
+Oracle,37,0.23
+Databricks,36,0.23
+TensorFlow,30,0.19
+Pandas,27,0.17
+PyTorch,26,0.16
+Scikit-learn,25,0.16
+GraphQL,21,0.13
+NumPy,19,0.12
+Go,19,0.12
+Django,17,0.11
+Vue.js,16,0.1
+Flask,13,0.08
+R,2,0.01
+OpenCV,1,0.01

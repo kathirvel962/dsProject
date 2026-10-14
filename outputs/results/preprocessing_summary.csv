@@ -1,0 +1,12 @@
+Metric,Before_Preprocessing,After_Preprocessing
+Total Rows,15886,15886
+Total Columns,27,23
+Duplicate Job IDs,0,0
+Missing (Null) Descriptions,1,0
+Missing (Null) Job Titles,0,0
+Missing (Null) Locations,0,0
+Missing (Null) Experience Levels,4902,0
+Missing (Null) Views,2763,0
+Missing (Null) Applies,7186,0
+Jobs With Calculated Salary,6502,6502
+Remote Jobs Identified,2340,2340
